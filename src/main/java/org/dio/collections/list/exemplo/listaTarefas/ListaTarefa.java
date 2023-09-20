@@ -1,7 +1,6 @@
-package org.dio.collections.list;
+package org.dio.collections.list.exemplo.listaTarefas;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class ListaTarefa {

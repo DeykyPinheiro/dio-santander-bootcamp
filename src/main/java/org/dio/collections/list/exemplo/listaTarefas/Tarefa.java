@@ -1,4 +1,4 @@
-package org.dio.collections.list;
+package org.dio.collections.list.exemplo.listaTarefas;
 
 public class Tarefa {
 
