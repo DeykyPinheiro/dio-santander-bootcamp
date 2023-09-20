@@ -1,4 +1,4 @@
-package contador;
+package org.dio.contador;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package contador;
+package org.dio.contador;
 
 public class ParametrosInvalidosException extends RuntimeException {
     public ParametrosInvalidosException(String message) {
