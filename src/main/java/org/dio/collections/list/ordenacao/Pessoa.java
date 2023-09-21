@@ -1,4 +1,4 @@
-package org.dio.collections.list.exemplo.ordenacao;
+package org.dio.collections.list.ordenacao;
 
 import java.util.Comparator;
 

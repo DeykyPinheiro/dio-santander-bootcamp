@@ -1,4 +1,4 @@
-package org.dio.collections.list.exemplo.listaTarefas;
+package org.dio.collections.list.listaTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

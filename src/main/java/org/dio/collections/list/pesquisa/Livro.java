@@ -1,4 +1,4 @@
-package org.dio.collections.list.exemplo.pesquisa;
+package org.dio.collections.list.pesquisa;
 
 public class Livro {
 
